@@ -1,0 +1,4 @@
+#Mon Feb 05 16:32:40 IST 2018
+base.0=D\:\\loginTemplate\\loginTemplate-master\\loginTemplate\\platforms\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\loginTemplate\\loginTemplate-master\\loginTemplate\\platforms\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
